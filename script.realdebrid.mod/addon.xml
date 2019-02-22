@@ -1,5 +1,3 @@
-<addons>
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.realdebrid.mod" name="RealDebrid-Mod" version="2.1.2" provider-name="ptom">
 	<requires>
@@ -22,5 +20,3 @@
         <source></source>
     </extension>
 </addon>
-
-</addons>
